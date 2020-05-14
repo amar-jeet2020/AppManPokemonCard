@@ -1,0 +1,33 @@
+.App{
+    margin:10px 5px 5px;
+    width: 100%;
+    
+}
+
+#dvResult{
+    display: flex;  
+    flex-direction: row;
+    align-items: flex-start;
+    margin:5px 5px 5px;
+    border:1px solid #ccc;
+    background-color:#ccc;
+    border-radius: 20px;
+    width: 80%;
+  }
+  #dvResult div.info{
+    left:70px;
+  }
+  ul{
+      list-style: none;
+  }
+  .app{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: row;  
+  }
+  .img{
+    width:150px;
+    height:190px;
+    margin: 5px 5px 5px;
+  }
